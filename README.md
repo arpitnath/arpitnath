@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**arpitnath/arpitnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Adit Luhadia](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=header&height=200&text=Adit%20Luhadia&desc=A%20student,%20entrepreneur%20and%20passionate%20Flutter%20developer%20from%20India&fontAlignY=34&descAlignY=55)
 
-Here are some ideas to get you started:
+[![Github Profile Views: masteradit](https://komarev.com/ghpvc/?username=arpitnath&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/arpitnath)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arpitnath.visitor_count)
--->
+
+
+
+![test](https://github-readme-stats.vercel.app/api?username=arpitnath&show_icons=true&locale=en&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arpitnath&show_icons=true&locale=en&layout=compact&theme=radical)
+
 
